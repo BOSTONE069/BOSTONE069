@@ -8,7 +8,7 @@
 - 📫 How to reach me:  bostoneochieng@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+![](https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif)
 ![Work Space](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,9 +29,7 @@
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rhemney&show_icons=true)   
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rhemney&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rhemney&show_icons=true) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rhemney&theme=blue-green)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=rhemney)
 

@@ -33,9 +33,9 @@
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rhemney&show_icons=true) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rhemney&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=BOSTONE069&show_icons=true) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BOSTONE069&theme=blue-green)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=rhemney)
+![Profile View Counter](https://komarev.com/ghpvc/?username=BOSTONE069)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)

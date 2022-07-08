@@ -6,8 +6,8 @@
 - 🤔 I’m looking for help with Software Engineering
 - 💬 Ask me about Software Development
 - 📫 How to reach me:  bostoneochieng@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns:
+- ⚡ Fun fact:
 
 
 ![](https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif)

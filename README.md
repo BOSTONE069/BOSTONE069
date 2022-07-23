@@ -7,7 +7,7 @@
 - 💬 Ask me about Software Development
 - 📫 How to reach me:  bostoneochieng@gmail.com
 - 😄 Pronouns:
-- ⚡ Fun fact:
+- ⚡ Fun fact: Reading 
 
 
 ![](https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif)

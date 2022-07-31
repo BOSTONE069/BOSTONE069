@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on C programming Language and Python
 - 🌱 I’m currently learning Software Engineering
-- 👯 I’m looking to collaborate on the different Software Engineering projects
+- 👯 I’m looking to collaborate and teach on the different Software Engineering projects
 - 🤔 I’m looking for help with Software Engineering
 - 💬 Ask me about Software Development
 - 📫 How to reach me:  bostoneochieng@gmail.com

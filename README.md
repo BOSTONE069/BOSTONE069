@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Software Engineering
 - 👯 I’m looking to collaborate and teach on the different Software Engineering projects
 - 🤔 I’m looking for help with Software Engineering
-- 💬 Ask me about Software Development
+- 💬 Ask me about Software Development and Cyber Security
 - 📫 How to reach me:  bostoneochieng@gmail.com
 - 😄 Pronouns:
 - ⚡ Fun fact: Reading, Watching Documentaries

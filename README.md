@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m Information Security Instructor
+- 🔭 I’m an Information Security Instructor
 - 🔭 I’m currently working on C programming Language and Python
 - 🌱 I’m currently learning Software Engineering
 - 👯 I’m looking to collaborate and teach on the different Software Engineering projects

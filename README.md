@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AIRBNB Web Application Clone
+- 🔭 I’m currently working on AIRBNB Web Application Clone Project
 -  I'm currentlly working with C programming Language and Python
 - 🌱 I’m currently learning Software Engineering
 - 👯 I’m looking to collaborate and teach on the different Cybersecurity and Software Engineering projects

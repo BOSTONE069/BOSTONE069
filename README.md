@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on AIRBNB Web Application Clone Project 
--  I'm currentlly working with C programming Language, Python, Javascript, Django and Golang
+-  I'm currentlly working with C, Python, Javascript, Django and Golang programming languages
 - 🌱 I’m currently learning Software Engineering
 - 👯 I’m looking to collaborate and teach on the different Cybersecurity and Software Engineering projects
 - 🤔 I’m looking for help with Software Engineering

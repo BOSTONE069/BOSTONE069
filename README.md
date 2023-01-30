@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Journal Web Application
 -  I'm currentlly working with C, Python, Javascript, Django Framework and Golang programming languages
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning REAST API using Golang 
 - 👯 I’m looking to collaborate and teach on the different Cybersecurity and Software Engineering projects
 - 🤔 I’m looking for help with Software Engineering and Cyber Security
 - 💬 Ask me about Software Engineering and Cyber Security

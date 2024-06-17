@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Journal Web Application, Local Medical Web Application and Decentralized Research Paper Blockchain Application
--  I'm currentlly working with C, Python, Javascript, Django Framework and Golang programming languages
-- 🌱 I’m currently learning REAST API using Golang and Python
+- 🔭 I’m currently working on Institute Web Application, Cancer Modelling Application and Decentralized Research Paper Blockchain Application
+-  I'm currentlly working with Rust, Python, Django Framework and Postgres
+- 🌱 I’m currently learning REAST API using Rust 
 - 👯 I’m looking to collaborate and teach on the different Cybersecurity and Software Engineering projects
 - 🤔 I’m looking for help with Software Engineering and Cyber Security
 - 💬 Ask me about Software Engineering and Cyber Security

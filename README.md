@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on E-learning Systems, Transport Management Systems and Microsoft Certifications for Educators
+- 🔭 I’m currently working on Healthcare Scheduling System, E-learning Systems, Transport Management Systems and Microsoft Certifications for Educators
 -  I'm currentlly working with Java, Python, Spring boot, Django Framework and Postgres
-- 🌱 I’m currently learning REAST API using Spring Boot and Django Rest Framework 
+- 🌱 I’m currently working on REST API using Spring Boot and Django Rest Framework 
 - 👯 I’m looking to collaborate and teach on the different Cybersecurity and Software Engineering projects
 - 🤔 I’m looking for help with Software Engineering and Cyber Security
 - 💬 Ask me about Software Engineering and Cyber Security

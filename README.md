@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Unified Nationsl Education Plafrom and Query Solutions Project and Microsoft Certifications for Educators
+- 🔭 I’m currently working on Unified National Education Platform, Query Solutions Project and Microsoft Certifications for Educators
 -  I'm currently working with Java, Python, Spring Boot, Django Framework, Postgres, Azure AI Foundry, Azure(Cloud Hosting)
 - 🌱 I’m currently working on REST API using Spring Boot and Django Rest Framework 
 - 👯 I’m looking to collaborate and teach on the different Cybersecurity and Software Engineering projects
